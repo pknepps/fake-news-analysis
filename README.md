@@ -12,6 +12,5 @@ This project is an analysis on a fake news headline data set we found on Kaggle 
 
 We aim to train a model to determine if a news headline is true or fake. We will use a variety of machine learning techniques to do this, including:
 
-- Simple Linear Regression
+- TF-IDF Vectorizer
 - Asking an LLM
-- ... and more!
