@@ -1,3 +1,5 @@
 WELFake_Dataset.csv
 .env/
 .gguf
+env/
+model/
