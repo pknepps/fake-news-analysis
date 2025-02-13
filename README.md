@@ -2,9 +2,9 @@
 
 Authors:
 
-- Preston Knepper
-- Kevin McCall
-- Zachary Eanes
+- [Preston Knepper](https://github.com/pknepps)
+- [Kevin McCall](https://github.com/kevinmccall)
+- [Zachary Eanes](https://github.com/zteanes)
 
 ## Introduction
 
